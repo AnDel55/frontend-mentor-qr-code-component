@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://qr-code-component.netlify.app)
+- Live Site URL: [](https://qr-code-component.netlify.app)
 
 ### Built with
 
