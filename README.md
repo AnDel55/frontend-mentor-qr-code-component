@@ -4,12 +4,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](design/desktop-design.jpg)
-![](design/mobile-design.jpg)
+![](https://github.com/AnDel55/frontend-mentor-qr-code-component/blob/main/desktop-design.jpg)
+![](https://github.com/AnDel55/frontend-mentor-qr-code-component/blob/main/mobile-design.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://qr-code-component.netlify.app)
 
 ### Built with
 
